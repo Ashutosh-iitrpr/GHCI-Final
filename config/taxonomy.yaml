@@ -1,0 +1,200 @@
+categories:
+  entertainment:
+    description: Subscriptions, shows, movies, events
+    display_name: Entertainment
+    synonyms:
+    - value: bookmyshow
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266122'
+    - value: hotstar
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266157'
+    - value: kanav
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266169'
+    - value: netflix
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266177'
+    - value: shaurya
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266184'
+    - value: spotify
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266191'
+    - value: vaip
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266197'
+    - value: zee5
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266204'
+  groceries:
+    description: Supermarkets and grocery stores
+    display_name: Groceries
+    synonyms:
+    - value: big bazaar
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266226'
+    - value: dmart
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266232'
+    - value: more supermarket
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266239'
+    - value: reliance fresh
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266245'
+    - value: spencers
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266251'
+    - value: tosha
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266258'
+  restaurants:
+    description: Restaurants and food delivery
+    display_name: Restaurants
+    synonyms:
+    - value: dominos
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266268'
+    - value: ka
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266275'
+    - value: kfc
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266281'
+    - value: mcdonalds
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266287'
+    - value: swiggy
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266294'
+    - value: vendikin
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266301'
+    - value: zomato
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266307'
+  shopping:
+    description: Online and offline retail
+    display_name: Shopping
+    synonyms:
+    - value: ajio
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266315'
+    - value: amazon
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266322'
+    - value: ash
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266328'
+    - value: flipkart
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266334'
+    - value: flushkaran
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266341'
+    - value: kan
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266348'
+    - value: kap
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266355'
+    - value: karan
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266361'
+    - value: myntra
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266368'
+    - value: nykaa
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266375'
+  travel:
+    description: Transport, flights, trains, taxis
+    display_name: Travel
+    synonyms:
+    - value: goibibo
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266383'
+    - value: indigo
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266390'
+    - value: irctc
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266395'
+    - value: kp
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266401'
+    - value: ola
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266406'
+    - value: uber
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266413'
+  utilities:
+    description: Bills and utilities
+    display_name: Utilities
+    synonyms:
+    - value: airtel broadband
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266421'
+    - value: bescom
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266427'
+    - value: bwssb
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266440'
+    - value: jassi
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266447'
+    - value: tata power
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266454'
+    - value: vodafone
+      source: seed
+      weight: 0.8
+      created_at: '2025-11-21T19:05:48.266461'
+updated_at: '2025-11-21T19:05:46.470629'
+updated_by: streamlit-admin
+version: 14
