@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pyyaml
+fuzzywuzzy
+python-Levenshtein
+rapidfuzz
+joblib
+jsonschema
+tqdm
